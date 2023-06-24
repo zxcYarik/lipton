@@ -10,6 +10,7 @@
 </head>
 
 <body>
+<? echo 'privet'?>
     <div class="container mt-4">
         <?php
         if (empty($_COOKIE['user'])) :

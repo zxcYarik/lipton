@@ -35,7 +35,7 @@
             <?php else : ?>
                 <p>Привет <?= $_COOKIE['user'] ?>. Чтобы выйти нажмите <a href="/exit.php"> здесь</a></p>
             <?php endif; ?>
-            <?//$gavno = array(1,2,3,4,5,6,7);?>
+            <?//$gavno = array(1,2,3,4,5,6,7);?>t
             <!-- <pre><?var_dump($gavno);?></pre> -->
 </body>
 
